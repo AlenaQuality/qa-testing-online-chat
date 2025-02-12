@@ -11,7 +11,7 @@ For more in-depth information, read a detailed article about testing online chat
 
 ## Checklist
 You can download the detailed checklist for testing online chat systems in this repository:
-- [Download the checklist](./Checklist%20for%20testing%20online%20chats.md)
+- [Download the checklist](./Checklist_for_testing_online_chats.md)
 
 ## Conclusion
 This checklist will help QA engineers ensure that the online chat system is thoroughly tested, focusing on critical aspects of functionality and performance.
